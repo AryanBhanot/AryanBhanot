@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 <details>
   <summary>My LeetCode Stats</summary>
   <br>
-  <a href="https://leetcode.com/u/aryanbhanot21/"><img alt="AryanBhanot's LeetCode Stats" src="https://leetcard.jacoblin.cool/AryanBhanot?theme=dark&font=baloo&ext=contest&hide.rank=true" /></a>
+  <a href="https://leetcode.com/u/aryanbhanot21/"><img alt="AryanBhanot's LeetCode Stats" src="https://leetcard.jacoblin.cool/aryanbhanot21?theme=chartreuse&font=Fresca&ext=heatmap" /></a>
   <br>
 </details>
