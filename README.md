@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My LeetCode Profile
+
+<details>
+  <summary>My LeetCode Stats</summary>
+  <br>
+  <a href="https://leetcode.com/AryanBhanot/"><img alt="AryanBhanot's LeetCode Stats" src="https://leetcard.jacoblin.cool/AryanBhanot?theme=dark&font=baloo&ext=contest&hide.rank=true" /></a>
+  <br>
+</details>
